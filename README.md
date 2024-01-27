@@ -1,5 +1,6 @@
-## Next.js App Router Course - Starter
+# Next.js App Router Course ⏭️
+Teaching myself website development using Next.js by following the [course](https://nextjs.org/learn) on Vercel's Next.js website.
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Learning points (under construction 🏗️)
+- Routing
+- layout.tsx and page.tsx
